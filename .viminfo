@@ -1,0 +1,319 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.2.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Last Search Pattern:
+~MSle0~/def transcribe
+
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:wq
+|2,0,1747492044,,"wq"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+?/MAX_FILE_SIZE = 
+|2,1,1747491871,47,"MAX_FILE_SIZE = "
+?/def transcribe
+|2,1,1747125183,47,"def transcribe"
+?/transcriptions
+|2,1,1747125171,47,"transcriptions"
+?/if 
+|2,1,1747025568,47,"if "
+?/transcribe
+|2,1,1747025516,47,"transcribe"
+?/MaxU
+|2,1,1746891389,47,"MaxU"
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+
+# 파일 마크:
+'0  3  40  ~/stt-test/audio.py
+|4,48,3,40,1747492044,"~/stt-test/audio.py"
+'1  3  40  ~/stt-test/audio.py
+|4,49,3,40,1747492037,"~/stt-test/audio.py"
+'2  1  0  ~/stt-test/env.py
+|4,50,1,0,1747492017,"~/stt-test/env.py"
+'3  477  7  ~/stt-test/audio.py
+|4,51,477,7,1747491873,"~/stt-test/audio.py"
+'4  477  7  ~/stt-test/audio.py
+|4,52,477,7,1747491873,"~/stt-test/audio.py"
+'5  477  7  ~/stt-test/audio.py
+|4,53,477,7,1747491873,"~/stt-test/audio.py"
+'6  477  7  ~/stt-test/audio.py
+|4,54,477,7,1747491873,"~/stt-test/audio.py"
+'7  107  28  ~/stt-test/main.py
+|4,55,107,28,1747109774,"~/stt-test/main.py"
+'8  485  0  ~/stt-test/audio.py
+|4,56,485,0,1747045088,"~/stt-test/audio.py"
+'9  483  0  ~/stt-test/audio.py
+|4,57,483,0,1747045088,"~/stt-test/audio.py"
+
+# 점프목록 (새것이 먼저):
+-'  3  40  ~/stt-test/audio.py
+|4,39,3,40,1747492044,"~/stt-test/audio.py"
+-'  3  40  ~/stt-test/audio.py
+|4,39,3,40,1747492037,"~/stt-test/audio.py"
+-'  1  0  ~/stt-test/audio.py
+|4,39,1,0,1747492028,"~/stt-test/audio.py"
+-'  1  0  ~/stt-test/audio.py
+|4,39,1,0,1747492028,"~/stt-test/audio.py"
+-'  1  0  ~/stt-test/env.py
+|4,39,1,0,1747492017,"~/stt-test/env.py"
+-'  1  0  ~/stt-test/env.py
+|4,39,1,0,1747492017,"~/stt-test/env.py"
+-'  1  0  ~/stt-test/env.py
+|4,39,1,0,1747492017,"~/stt-test/env.py"
+-'  1  0  ~/stt-test/env.py
+|4,39,1,0,1747492017,"~/stt-test/env.py"
+-'  477  7  ~/stt-test/audio.py
+|4,39,477,7,1747491873,"~/stt-test/audio.py"
+-'  477  7  ~/stt-test/audio.py
+|4,39,477,7,1747491873,"~/stt-test/audio.py"
+-'  477  7  ~/stt-test/audio.py
+|4,39,477,7,1747491873,"~/stt-test/audio.py"
+-'  477  7  ~/stt-test/audio.py
+|4,39,477,7,1747491873,"~/stt-test/audio.py"
+-'  509  79  ~/stt-test/audio.py
+|4,39,509,79,1747125183,"~/stt-test/audio.py"
+-'  509  79  ~/stt-test/audio.py
+|4,39,509,79,1747125183,"~/stt-test/audio.py"
+-'  509  79  ~/stt-test/audio.py
+|4,39,509,79,1747125183,"~/stt-test/audio.py"
+-'  509  79  ~/stt-test/audio.py
+|4,39,509,79,1747125183,"~/stt-test/audio.py"
+-'  485  0  ~/stt-test/audio.py
+|4,39,485,0,1747125171,"~/stt-test/audio.py"
+-'  485  0  ~/stt-test/audio.py
+|4,39,485,0,1747125171,"~/stt-test/audio.py"
+-'  485  0  ~/stt-test/audio.py
+|4,39,485,0,1747125171,"~/stt-test/audio.py"
+-'  485  0  ~/stt-test/audio.py
+|4,39,485,0,1747125171,"~/stt-test/audio.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  107  28  ~/stt-test/main.py
+|4,39,107,28,1747109774,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  1  0  ~/stt-test/main.py
+|4,39,1,0,1747045092,"~/stt-test/main.py"
+-'  483  0  ~/stt-test/audio.py
+|4,39,483,0,1747045088,"~/stt-test/audio.py"
+-'  483  0  ~/stt-test/audio.py
+|4,39,483,0,1747045088,"~/stt-test/audio.py"
+-'  483  0  ~/stt-test/audio.py
+|4,39,483,0,1747045088,"~/stt-test/audio.py"
+-'  483  0  ~/stt-test/audio.py
+|4,39,483,0,1747045088,"~/stt-test/audio.py"
+-'  483  0  ~/stt-test/audio.py
+|4,39,483,0,1747045088,"~/stt-test/audio.py"
+-'  483  0  ~/stt-test/audio.py
+|4,39,483,0,1747045088,"~/stt-test/audio.py"
+-'  484  0  ~/stt-test/audio.py
+|4,39,484,0,1747045055,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747045055,"~/stt-test/audio.py"
+-'  484  0  ~/stt-test/audio.py
+|4,39,484,0,1747045055,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747045055,"~/stt-test/audio.py"
+-'  484  0  ~/stt-test/audio.py
+|4,39,484,0,1747045055,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747045055,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747045055,"~/stt-test/audio.py"
+-'  484  0  ~/stt-test/audio.py
+|4,39,484,0,1747045055,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747045055,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747045055,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747025762,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747025762,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747025762,"~/stt-test/audio.py"
+-'  482  0  ~/stt-test/audio.py
+|4,39,482,0,1747025762,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  470  4  ~/stt-test/audio.py
+|4,39,470,4,1747025568,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  32  0  ~/stt-test/audio.py
+|4,39,32,0,1747025516,"~/stt-test/audio.py"
+-'  1  0  ~/stt-test/audio.py
+|4,39,1,0,1747025504,"~/stt-test/audio.py"
+-'  1  0  ~/stt-test/audio.py
+|4,39,1,0,1747025504,"~/stt-test/audio.py"
+-'  1  0  ~/stt-test/audio.py
+|4,39,1,0,1747025504,"~/stt-test/audio.py"
+-'  1  0  ~/stt-test/audio.py
+|4,39,1,0,1747025504,"~/stt-test/audio.py"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/stt-test/audio.py
+	*	1747492041	0
+	"	3	40
+	^	3	41
+	.	3	40
+	+	578	15
+	+	476	58
+	+	477	8
+	+	3	40
+
+> ~/stt-test/env.py
+	*	1747492015	0
+	"	1	0
+
+> ~/stt-test/main.py
+	*	1747109773	0
+	"	107	28
+
+> ~/stt-test/Dockerfile
+	*	1746892172	0
+	"	4	36
+	^	4	37
+	.	4	36
+	+	4	36
+
+> ~/stt-server/Dockerfile
+	*	1746796048	0
+	"	13	34
+	^	14	0
+	.	13	35
+	+	13	35
+
+> ~/stt-server/requirements.txt
+	*	1746796035	0
+	"	6	0
+	^	6	0
+	.	5	4
+	+	5	4
+
+> ~/stt-server/stt_api_server.py
+	*	1746796021	0
+	"	28	0
+	^	28	0
+	.	27	38
+	+	27	38
+
+> ~/stt-server/stt_module.py
+	*	1746795973	0
+	"	107	0
+	^	107	0
+	.	106	28
+	+	106	28
