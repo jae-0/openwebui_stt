@@ -21,7 +21,7 @@
 
 - **Language**: Python
 - **Framework & DB**: FastAPI, SQLAlchemy, Open WebUI
-- **AI & ML**: PyTorch, HuggingFace Transformers, Whisper large-v3, faster-whisper
+- **AI & ML**: PyTorch, HuggingFace Transformers, Whisper large-v3
 - **Audio Processing**: pydub
 
 ---
